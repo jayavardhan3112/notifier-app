@@ -6,6 +6,9 @@ It is a JS script which notifies you by alerting in your laptop and sending a me
 
 Use the package manager [npm](https://docs.npmjs.com/) to install all the required package, [node](https://nodejs.org/en/download/) automatically install npm
 
+## Twillio Login
+You need to update the global variables in the script with the client ID and client Secret that would be available to you after you register in [twilio](https://www.twilio.com/) and the fromMobile also would be available once you login and the toMobile would be the client mobile number
+
 ## Usage
 
 ```
