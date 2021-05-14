@@ -1,0 +1,19 @@
+__pycache__/
+
+# dependencies
+node_modules
+bower_components/
+node/public/
+
+# testing
+coverage
+
+# production
+build
+dist/
+
+.test.env
+.prod.env
+.env
+.dev.env
+#logs
